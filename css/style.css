@@ -16,7 +16,6 @@
 }
 
 /* Header Part */
-
 header {
     width: 100%;
     height: 100vh;
@@ -133,8 +132,6 @@ header .name h1 {
 
 
 /* Section Part */
-
-
 section {
     width: 80%;
     margin: 80px auto;
@@ -180,8 +177,6 @@ section .everest .camp p {
 
 
 /* Main Part */
-
-
 main {
     width: 100%;
     height: 100vh;
@@ -219,8 +214,6 @@ main .explore p {
 
 
 /* Main Bottom Part */
-
-
 .bottom {
     width: 80%;
     margin: auto;
@@ -275,8 +268,6 @@ main .explore p {
 
 
 /* Footer Part */
-
-
 footer {
     width: 100%;
     padding: 20px 80px;
@@ -292,7 +283,6 @@ footer p {
 
 
 /* Media Part */
-
 @media screen and (max-width:768px) {
     header .menu .menu-bars {
         display: none;
